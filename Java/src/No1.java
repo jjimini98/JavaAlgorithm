@@ -1,4 +1,4 @@
-import java.util.Scanner;
+// 2557 Hello World
 
 public class No1 {
     public static void main(String[]args) {
