@@ -1,3 +1,5 @@
+//1000 A+B
+
 import java.util.Scanner;
 
 public class No2 {
