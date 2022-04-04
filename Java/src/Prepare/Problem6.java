@@ -1,4 +1,4 @@
-package Java;
+package Prepare;
 
 import java.util.Scanner;
 

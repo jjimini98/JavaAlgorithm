@@ -1,4 +1,4 @@
-package Java;
+package Prepare;
 
 // Stdin and Stdout 2
 

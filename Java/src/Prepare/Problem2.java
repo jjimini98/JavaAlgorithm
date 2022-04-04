@@ -1,4 +1,4 @@
-package Java;
+package Prepare;
 
 // If- Else
 import java.util.Scanner;
